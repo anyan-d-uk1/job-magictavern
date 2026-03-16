@@ -8,7 +8,8 @@ This is a static single-page job posting website for a Narrative Designer positi
 
 ## Deployment
 
-Hosted via GitHub Pages: https://anyan-d-uk1.github.io/job-magictavern/
+- **Cloudflare Pages**: https://job-magictavern.pages.dev/ (国内可访问，push 到 main 自动部署)
+- **GitHub Pages**: https://anyan-d-uk1.github.io/job-magictavern/ (国内无法直接访问)
 
 ## Development
 
